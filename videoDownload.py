@@ -19,7 +19,7 @@ while True:
     video=videoStream.all()
     if len(video)==0:
         print("無法下載")
-        sys.exit()
+        continue
     # MP4
     mp4VideoStream=videoStream.filter(subtype="mp4")
     mp4Video=mp4VideoStream.all()
