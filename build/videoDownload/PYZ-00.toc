@@ -1,4 +1,4 @@
-('C:\\Users\\user\\Desktop\\videoDownload\\build\\videoDownload\\PYZ-00.pyz',
+('D:\\Python\\Project\\VideoDownload\\build\\videoDownload\\PYZ-00.pyz',
  [('ntpath', 'd:\\python\\python37-32\\lib\\ntpath.py', 'PYMODULE'),
   ('_strptime', 'd:\\python\\python37-32\\lib\\_strptime.py', 'PYMODULE'),
   ('datetime', 'd:\\python\\python37-32\\lib\\datetime.py', 'PYMODULE'),

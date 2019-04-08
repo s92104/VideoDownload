@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['videoDownload.py'],
-             pathex=['C:\\Users\\user\\Desktop\\videoDownload'],
+             pathex=['D:\\Python\\Project\\VideoDownload'],
              binaries=[],
              datas=[],
              hiddenimports=[],
