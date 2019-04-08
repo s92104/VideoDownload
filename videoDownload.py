@@ -1,6 +1,4 @@
 from pytube import YouTube
-import sys
-import os
 
 def complete(stream, file_handle):
     print("下載完成:",title)
